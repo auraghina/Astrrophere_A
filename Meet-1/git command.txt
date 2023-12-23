@@ -1,0 +1,7 @@
+add remote
+add
+commit
+push
+pull
+rm 
+
